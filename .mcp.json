@@ -1,0 +1,11 @@
+{
+  "mcpServers": {
+    "sms-ru": {
+      "command": "npx",
+      "args": ["-y", "@theyahia/sms-ru-mcp"],
+      "env": {
+        "SMS_RU_API_ID": ""
+      }
+    }
+  }
+}
