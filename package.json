@@ -1,7 +1,7 @@
 {
   "name": "@theyahia/sms-ru-mcp",
   "version": "1.1.0",
-  "description": "MCP server for SMS.RU API — send SMS, check status, balance, cost, senders. 5 tools.",
+  "description": "MCP server for SMS.RU — SMS sending, delivery status, balance (Russia)",
   "type": "module",
   "main": "dist/index.js",
   "bin": {
@@ -43,7 +43,9 @@
     "ai",
     "russian-api",
     "sms-ru",
-    "sms"
+    "sms",
+    "api",
+    "typescript"
   ],
   "license": "MIT",
   "repository": {
