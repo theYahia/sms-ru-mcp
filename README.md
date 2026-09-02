@@ -1,6 +1,6 @@
-# @theyahia/sms-ru-mcp
+# SMS.RU MCP — отправка СМС из нейросети без написания кода
 
-MCP-сервер для [SMS.RU](https://sms.ru) API — отправка SMS, проверка статуса, баланс, расчёт стоимости, список отправителей. **5 инструментов.**
+Если вы искали, как отправить SMS прямо из диалога с ИИ-ассистентом, проверить доставку сообщения или узнать остаток на счету не заходя в кабинет — это оно. **5 инструментов** поверх API [SMS.RU](https://sms.ru): отправка SMS, статус сообщения, баланс, расчёт стоимости и список отправителей.
 
 [![npm](https://img.shields.io/npm/v/@theyahia/sms-ru-mcp)](https://www.npmjs.com/package/@theyahia/sms-ru-mcp)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
@@ -91,3 +91,4 @@ npm test
 ## Лицензия
 
 MIT
+
