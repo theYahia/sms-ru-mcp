@@ -92,3 +92,6 @@ npm test
 
 MIT
 
+---
+
+Telegram: [@vhodvai](https://t.me/vhodvai)
